@@ -1,1 +1,5 @@
 .DS_Store
+.cache
+.ipynb_checkpoints
+.ipython
+.local
