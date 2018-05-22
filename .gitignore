@@ -5,3 +5,7 @@
 .local
 project
 target
+.bash_history
+.conda
+.idea
+.jupyter
